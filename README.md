@@ -28,4 +28,3 @@
 
 默认请使用原生sqlite数据库
 
-修改自[Sayafx](https://github.com/Sayafx/Typecho-replit)的部署。更换了主题和插件。使用matcha主题，加载更快而不失美观。
